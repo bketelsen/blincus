@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Installing Incus
 description: Make incus based development environments.
 ---
 
