@@ -1,3 +1,9 @@
+---
+title: blincus shell
+description: | 
+  Open a shell in an instance
+---
+
 # blincus shell
 
 Open a shell in an instance

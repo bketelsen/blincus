@@ -1,3 +1,9 @@
+---
+title: blincus config set
+description: | 
+  Save a value in the config file
+---
+
 # blincus config set
 
 Save a value in the config file

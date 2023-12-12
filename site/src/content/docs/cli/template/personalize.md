@@ -1,3 +1,9 @@
+---
+title: blincus template personalize
+description: | 
+  Personalize default templates
+---
+
 # blincus template personalize
 
 Personalize default templates

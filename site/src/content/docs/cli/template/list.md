@@ -1,3 +1,9 @@
+---
+title: blincus template list
+description: | 
+  List all templates
+---
+
 # blincus template list
 
 List all templates

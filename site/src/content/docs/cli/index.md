@@ -1,3 +1,10 @@
+---
+title: blincus
+description: | 
+  Manage development containers with Incus  
+
+---
+
 # blincus
 
 Manage development containers with Incus  
@@ -29,9 +36,9 @@ Location of blincus config.ini
 
 ## Commands
 
-- [config](blincus%20config) - Manage blincus config
-- [launch](blincus%20launch) - Launch a new instance
-- [shell](blincus%20shell) - Open a shell in an instance
-- [template](blincus%20template) - Manage blincus templates
+- [blincus config](/cli/blincus/config) - Manage blincus config
+- [blincus launch](/cli/blincus/launch) - Launch a new instance
+- [blincus shell](/cli/blincus/shell) - Open a shell in an instance
+- [blincus template](/cli/blincus/template) - Manage blincus templates
 
 
