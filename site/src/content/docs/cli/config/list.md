@@ -1,3 +1,9 @@
+---
+title: blincus config list
+description: | 
+  Show all values
+---
+
 # blincus config list
 
 Show all values

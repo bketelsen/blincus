@@ -1,32 +1,34 @@
-# blincus config get
+---
+title: blincus template edit
+description: | 
+  Edit a template
+---
 
-Read a value from the config file
+# blincus template edit
+
+Edit a template
 
 | Attributes       | &nbsp;
 |------------------|-------------
-| Alias:           | g
+| Alias:           | e
 
 ## Usage
 
 ```bash
-blincus config get KEY
+blincus template edit NAME
 ```
 
 ## Examples
 
 ```bash
-blincus get engine
-```
-
-```bash
-blincus get default_release
+blincus template edit ubuntu
 ```
 
 ## Arguments
 
-#### *KEY*
+#### *NAME*
 
-Config key
+Template name
 
 | Attributes      | &nbsp;
 |-----------------|-------------

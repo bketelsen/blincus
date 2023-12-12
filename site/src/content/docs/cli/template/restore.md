@@ -1,3 +1,9 @@
+---
+title: blincus template restore
+description: | 
+  Restore a template
+---
+
 # blincus template restore
 
 Restore a template

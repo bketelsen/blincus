@@ -1,3 +1,10 @@
+---
+title: blincus launch
+description: | 
+  Launch a new instance  
+
+---
+
 # blincus launch
 
 Launch a new instance  
